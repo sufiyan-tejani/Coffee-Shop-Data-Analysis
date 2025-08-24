@@ -21,11 +21,6 @@ The goal was to generate valuable business insights and build an interactive das
 
 ---
 
-## Dashboard Snapshot
-![Dashboard](Dashboard.png)
-
----
-
 ## Key Insights
 - Identified top-selling products & peak sales hours  
 - Analyzed payment methods distribution  
